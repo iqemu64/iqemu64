@@ -1,0 +1,20 @@
+[submodule "deps/osxutils"]
+	path = deps/osxutils
+	url = git@github.com:iqemu64/osxutils.git
+	branch = master
+[submodule "deps/HackedBinaries"]
+	path = deps/HackedBinaries
+	url = git@github.com:iqemu64/HackedBinaries.git
+	branch = master
+[submodule "deps/libunwind64"]
+	path = deps/libunwind64
+	url = git@github.com:iqemu64/libunwind64.git
+	branch = master
+[submodule "deps/libcxx-10.0.0"]
+	path = deps/libcxx-10.0.0
+	url = git@github.com:iqemu64/libcxx-10.0.0.git
+	branch = master
+[submodule "deps/iemukern"]
+	path = deps/iemukern
+	url = git@github.com:iqemu64/iemukern.git
+	branch = Catalina
